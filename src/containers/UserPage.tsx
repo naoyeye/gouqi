@@ -40,7 +40,7 @@ class UserPage extends React.Component<IProps, any> {
     super(props)
     this.list = [
       {
-        title: '我的歌单',
+        title: '我的歌单333',
         iconName: 'list-alt',
         onPress: Router.toPersonalPlaylist()
       },
